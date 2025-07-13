@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/root/journal'
+let g:netrw_dirhist_7='/root/fd2'
+let g:netrw_dirhist_6='/root/fd2/h:q'
+let g:netrw_dirhist_5='/root/fd2'
+let g:netrw_dirhist_4='/root/fd2/h:q'
+let g:netrw_dirhist_3='/root/fd2'
+let g:netrw_dirhist_2='/root/fd2/super'
+let g:netrw_dirhist_1='/root/fd2'
+let g:netrw_dirhist_0='/root/fd2/fd1'
+let g:netrw_dirhist_9='/root/fd2'
