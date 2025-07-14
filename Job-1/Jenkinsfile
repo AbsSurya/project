@@ -1,0 +1,18 @@
+pipeline {
+    agent any
+
+    stages {
+
+        stage("build") {
+            steps {
+                git branch: 'Jenkins', url: 'https://github.com/AbsSurya/project.git'
+            }
+        }
+
+        stage("test") {
+            steps {
+                echo "testing"
+            }
+        }
+    }
+}
